@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Credit-Card/static/css/main.79431578.chunk.css",
+    "main.js": "/Credit-Card/static/js/main.888a2ab7.chunk.js",
+    "main.js.map": "/Credit-Card/static/js/main.888a2ab7.chunk.js.map",
+    "runtime-main.js": "/Credit-Card/static/js/runtime-main.ab941e0f.js",
+    "runtime-main.js.map": "/Credit-Card/static/js/runtime-main.ab941e0f.js.map",
+    "static/js/2.bfbc1e0e.chunk.js": "/Credit-Card/static/js/2.bfbc1e0e.chunk.js",
+    "static/js/2.bfbc1e0e.chunk.js.map": "/Credit-Card/static/js/2.bfbc1e0e.chunk.js.map",
+    "index.html": "/Credit-Card/index.html",
+    "precache-manifest.4a1adac46e4719067768bd594815179a.js": "/Credit-Card/precache-manifest.4a1adac46e4719067768bd594815179a.js",
+    "service-worker.js": "/Credit-Card/service-worker.js",
+    "static/css/main.79431578.chunk.css.map": "/Credit-Card/static/css/main.79431578.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab941e0f.js",
+    "static/js/2.bfbc1e0e.chunk.js",
+    "static/css/main.79431578.chunk.css",
+    "static/js/main.888a2ab7.chunk.js"
+  ]
+}
